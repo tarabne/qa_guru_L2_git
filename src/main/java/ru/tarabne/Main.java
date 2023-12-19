@@ -2,6 +2,10 @@ package ru.tarabne;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello hello hellooooooo!");
+        System.out.println(getMessage());
+    }
+
+    private static String getMessage() {
+        return "Hell";
     }
 }
