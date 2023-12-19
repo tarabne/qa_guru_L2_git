@@ -2,6 +2,6 @@ package ru.tarabne;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello hello hello!");
+        System.out.println("Hello conflict");
     }
 }
